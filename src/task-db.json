@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries and cook dinner",
+        "status": "done",
+        "createdAt": "DATE: 2024-10-14 TIME: 21:22:47",
+        "updatedAt": "DATE: 2024-10-14 TIME: 21:24:52"
+    },
+    {
+        "id": 2,
+        "description": "Do my laundry",
+        "status": "todo",
+        "createdAt": "DATE: 2024-10-14 TIME: 21:24:14",
+        "updatedAt": "DATE: 2024-10-14 TIME: 21:24:14"
+    },
+    {
+        "id": 3,
+        "description": "New task",
+        "status": "in-progress",
+        "createdAt": "DATE: 2024-10-16 TIME: 21:30:45",
+        "updatedAt": "DATE: 2024-10-16 TIME: 21:30:45"
+    }
+]
