@@ -17,7 +17,7 @@
 # 5. Marking a task as in progress or done
 -- task-cli mark-in-progress 1
 
-task-cli mark-done 1
+-- task-cli mark-done 1
 
 # 6. Listing all tasks
 -- task-cli list
